@@ -1,0 +1,98 @@
+commit f79320cc609465713ce291643f6075644f230c42
+Author: Ariel Reyes <claudio.reyes@lafincadelagos.com.mx>
+Date:   Wed Jan 17 16:50:39 2024 -0600
+
+    Agregando mas parrafos
+
+commit 32bda44a6ef5d65aa26c0a0a1b691adc210ce752
+Merge: f4d5d73 f5b5e34
+Author: Ariel Reyes <claudio.reyes@lafincadelagos.com.mx>
+Date:   Wed Jan 17 16:48:20 2024 -0600
+
+    Resolviendo conflicto en contenido HTML
+
+commit f4d5d73c37fc79d6933cedca28baaac0ee6b77b2
+Author: Ariel Reyes <claudio.reyes@lafincadelagos.com.mx>
+Date:   Wed Jan 17 14:58:27 2024 -0600
+
+    Agregando contenido al HTML
+
+commit f5b5e34fc2f33bf7fccc9a4635bfb5fe498f09de
+Author: Ariel Reyes <claudio.reyes@lafincadelagos.com.mx>
+Date:   Wed Jan 17 14:58:27 2024 -0600
+
+    Agregando contenido al HTML
+
+commit 4c668589363ee839f54e04ab7ac402088eb27c12
+Merge: d40c2a0 8c1d04d
+Author: Ariel Reyes <claudio.reyes@lafincadelagos.com.mx>
+Date:   Wed Jan 17 14:35:52 2024 -0600
+
+    Resolviendo conflicto con el Merge
+
+commit 8c1d04d2883cb37ea33c193c04e26f7bfc2a6bb2
+Author: Ariel Reyes <claudio.reyes@lafincadelagos.com.mx>
+Date:   Wed Jan 17 14:30:37 2024 -0600
+
+    Otro cambio en rama diferente
+
+commit d40c2a01c911e9778a09af302f712e21599cff70
+Author: Ariel Reyes <claudio.reyes@lafincadelagos.com.mx>
+Date:   Wed Jan 17 14:29:04 2024 -0600
+
+    Modificando HMTL
+
+commit 3018c67ba836fe85f0a017e5f060fef0c0ae15e2
+Merge: 6d5a8fc 88ea582
+Author: Ariel Reyes <claudio.reyes@lafincadelagos.com.mx>
+Date:   Wed Jan 17 14:20:30 2024 -0600
+
+    Merge branch 'js'
+
+commit 88ea582b908119c5032e5511d46f66d5933c0145
+Author: Ariel Reyes <claudio.reyes@lafincadelagos.com.mx>
+Date:   Wed Jan 17 14:13:28 2024 -0600
+
+    Creando index.js
+
+commit 6d5a8fc33fe6ba1cf0ac62f382c7292637eb475c
+Author: Ariel Reyes <claudio.reyes@lafincadelagos.com.mx>
+Date:   Wed Jan 17 13:12:26 2024 -0600
+
+    Creando Estilos CSS
+
+commit 62993f67d96a7711d8e899f1e2e86aecc59ef045
+Author: Ariel Reyes <claudio.reyes@lafincadelagos.com.mx>
+Date:   Wed Jan 17 13:08:18 2024 -0600
+
+    Creando Archivo HTML
+
+commit 5788aa4827153c0c943eee8e10e41b7e29591874
+Author: Ariel Reyes <claudio.reyes@lafincadelagos.com.mx>
+Date:   Wed Jan 17 12:49:47 2024 -0600
+
+    Ignorando archivos .exe
+
+commit ba2d2c6bd0377d4b27b066def78543fbb61cd40f
+Author: TIAriel <155589664+TIAriel@users.noreply.github.com>
+Date:   Wed Jan 17 12:19:45 2024 -0600
+
+    Creando licencia del repositorio
+
+commit 6126a441b755aa8436516f3a20768cdd1f5b52ba
+Author: Ariel Reyes <claudio.reyes@lafincadelagos.com.mx>
+Date:   Wed Jan 17 12:13:47 2024 -0600
+
+    Agregando más contenido al README
+
+commit 57eb4f5c4a2c5c5873fa42b933d94e1a87f8ecbd
+Author: Ariel Reyes <claudio.reyes@lafincadelagos.com.mx>
+Date:   Wed Jan 17 12:02:42 2024 -0600
+
+    Agregando contenido inicial al README
+
+commit b320a2ccf09605e5070b13e16530e6c9426f237c
+Author: Ariel Reyes <claudio.reyes@lafincadelagos.com.mx>
+Date:   Wed Jan 17 11:57:20 2024 -0600
+
+    Primer Commit
